@@ -2,6 +2,10 @@
 
 With a degree in Computer Engineering, 🔭 I am currently a member of the research group at the Game Therapy and Virtual Reality Laboratory (Lab GameVR), 🌱 where I am dedicated to research related to IoT (Internet of Things) devices applied to rehabilitation, game therapy, serious games, Natural Interfaces, non-conventional interaction devices, accessibility and education.
 
+📫 How to reach me:  you can sending an email to bruno.rodrigues@mackenzie.br
+
+⚡ About LabgameVR projects and activities, you can access the laboratory repository at: https://github.com/LabGamesVR or by accessing our Instagram @labgamevr
+
 <!--
 **dasilvarodriguesb/dasilvarodriguesb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
