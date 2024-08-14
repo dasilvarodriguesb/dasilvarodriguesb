@@ -1,4 +1,6 @@
-## Hi there 👋
+## 👋 Hi, I'm Bruno Rodrigues, a professor at the Faculty of Computing and Information Technology (FCI) at Mackenzie Presbyterian University (UPM). 
+
+With a degree in Computer Engineering, 🔭 I am currently a member of the research group at the Game Therapy and Virtual Reality Laboratory (Lab GameVR), 🌱 where I am dedicated to research related to IoT (Internet of Things) devices applied to rehabilitation, game therapy, serious games, Natural Interfaces, non-conventional interaction devices, accessibility and education.
 
 <!--
 **dasilvarodriguesb/dasilvarodriguesb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
