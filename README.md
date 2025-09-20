@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Bruno Rodrigues, a professor at the Faculty of Computing and Information Technology (FCI) at Mackenzie Presbyterian University (UPM). 
 
-With a degree in Computer Engineering, 🔭 I am currently a member of the research group at the Game Therapy and Virtual Reality Laboratory (Lab GameVR), 🌱 where I am dedicated to research related to IoT (Internet of Things) devices applied to rehabilitation, game therapy, serious games, Natural Interfaces, non-conventional interaction devices, accessibility and education.
+With a degree in Computer Engineering, 🔭 I am currently a member of the research group at the Game Therapy and Virtual Reality Laboratory (Lab GameVR), 🌱 where I am dedicated to research related to IoT (Internet of Things) devices applied to rehabilitation, game therapy, serious games, Natural Interfaces, non-conventional interaction devices, accessibility and education. If you want to know my research lines and the main published works, [click here](https://github.com/dasilvarodriguesb/Reabilita-o-e-tecnologia-)!!!
 
 📫 How to reach me:  you can sending an email to bruno.rodrigues@mackenzie.br
 
